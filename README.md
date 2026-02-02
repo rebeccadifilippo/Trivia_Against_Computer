@@ -1,9 +1,13 @@
 # Trivia-Game-in-Java
 
 
-Text/graphics based trivia game with 4 subjects to choose from, each with 20 questions. The correct answer is displayed and score is tallied. There is a computer to play against whos difficulty is determined by its chance of answering a question correctly. There are records of all previous player's and scores for each subject and you are given a rank on the all-time leaderboard. This project was for our grade 12 computer science class (ICS4U) final and the goal was to create a user-interactive game that utilized class concepts. Final grade- 97%.
+Text/graphics based trivia game with 4 subjects to choose from, each with 20 questions. The correct answer is displayed and score is tallied. There is a computer to play against whos difficulty is determined by its chance of answering a question correctly. There are records of all previous player's and scores for each subject and you are given a rank on the all-time leaderboard. 
 
-`Skills used:` Java, OOP, sorting, methods, arrays, read text files, read/write binary files
+#SKILLS
+Java
+OOP
+sorting algorithmsmethods
+binary files
 
 
 |`Welcome Message` |`Title screen`  |
@@ -17,3 +21,7 @@ Text/graphics based trivia game with 4 subjects to choose from, each with 20 que
 |<img width= "300" height= "250" src= "https://user-images.githubusercontent.com/106715980/174921794-fac16201-7310-4838-b20f-316b2d7df97a.png">|<img width= "300" height= "250" src= "https://user-images.githubusercontent.com/106715980/174921834-0184ee04-1051-4964-978c-726aedd51b54.png">|
 |`Compare Computer` shows how the user perfomed against the computer | `Compare other players` gives the users placement to the all-time database of players|
 |<img width= "300" height= "250" src="https://user-images.githubusercontent.com/106715980/174921876-dc4942b1-1b47-4692-b9a1-9e2c38b22604.png">|<img width= "300" height= "250" src="https://user-images.githubusercontent.com/106715980/174921974-7296ad20-584c-486f-873f-769f77603a56.png">|
+
+
+#AUTHORS
+Rebecca Di Filippo and Aiden Robinson
