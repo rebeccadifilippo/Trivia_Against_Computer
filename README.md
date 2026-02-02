@@ -23,5 +23,5 @@ Text/graphics based trivia game with 4 subjects to choose from, each with 20 que
 |<img width= "300" height= "250" src="https://user-images.githubusercontent.com/106715980/174921876-dc4942b1-1b47-4692-b9a1-9e2c38b22604.png">|<img width= "300" height= "250" src="https://user-images.githubusercontent.com/106715980/174921974-7296ad20-584c-486f-873f-769f77603a56.png">|
 
 
-#AUTHORS
+# AUTHORS
 Rebecca Di Filippo and Aiden Robinson
