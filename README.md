@@ -3,11 +3,11 @@
 
 Text/graphics based trivia game with 4 subjects to choose from, each with 20 questions. The correct answer is displayed and score is tallied. There is a computer to play against whos difficulty is determined by its chance of answering a question correctly. There are records of all previous player's and scores for each subject and you are given a rank on the all-time leaderboard. 
 
-#SKILLS
-Java
-OOP
-sorting algorithmsmethods
-binary files
+# SKILLS
+1. Java
+2. OOP
+3. Sorting Algorithms
+4. Binary Files
 
 
 |`Welcome Message` |`Title screen`  |
