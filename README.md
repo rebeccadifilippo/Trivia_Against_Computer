@@ -1,7 +1,7 @@
 # Trivia-Game-in-Java
 
 
-Text/graphics based trivia game with 4 subjects to choose from, each with 20 questions. The correct answer is displayed and score is tallied. There is a computer to play against whos difficulty is determined by its chance of answering a question correctly. There are records of all previous player's and scores for each subject and you are given a rank on the all-time leaderboard. 
+Text/graphics based trivia game with 4 subjects to choose from, each with 20 questions. The correct answer is displayed and score is tallied. There is a computer to play against whos difficulty is determined by its chance of answering a question correctly. There are records of all previous player's and scores for each subject and you are given a rank on the all-time leaderboard. Please note that this project prioritizes software architecture, object-oriented design, and algorithmic efficiency over User Interface (UI) aesthetics. The primary goal was to demonstrate robust backend engineering and binary file handling.
 
 # SKILLS
 1. Java
